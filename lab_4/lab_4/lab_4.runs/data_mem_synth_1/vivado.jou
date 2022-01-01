@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sat Jan  1 22:06:47 2022
+# Process ID: 13464
+# Current directory: D:/ProjetsOfAll/vivado_projects/step_into_mips/lab_4/lab_4/lab_4.runs/data_mem_synth_1
+# Command line: vivado.exe -log data_mem.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source data_mem.tcl
+# Log file: D:/ProjetsOfAll/vivado_projects/step_into_mips/lab_4/lab_4/lab_4.runs/data_mem_synth_1/data_mem.vds
+# Journal file: D:/ProjetsOfAll/vivado_projects/step_into_mips/lab_4/lab_4/lab_4.runs/data_mem_synth_1\vivado.jou
+# Running On: DESKTOP-OAAE6Q1, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 8359 MB
+#-----------------------------------------------------------
+source data_mem.tcl -notrace
